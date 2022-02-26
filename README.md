@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Vishwa!
-- 👀 I’m aspiring to be a full stack web developer.
 - 🌱 I’m currently learning Computer Programming.
 - 📫 How to reach me - mavanivishwa@gmail.com

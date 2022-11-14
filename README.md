@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Vishwa!
-- 🌱 I’m currently learning Computer Programming.
+- 🌱 I’m a Computer Programmer Analyst.
 - 📫 How to reach me - mavanivishwa@gmail.com
